@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Climate"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "a9b0eca7-bf87-44e0-859e-cdc0bc42ce03"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "db11cada-7e6a-4291-9f38-2d43cc59c33a",
+    "website": "the-roosevelt-project"
+  },
+  "course_title": "The Roosevelt Project",
+  "hide_download": true,
+  "course_description": "This project looks to combine the legacies of these three titans of American history, including Theodore Roosevelt, Franklin Roosevelt, and Eleanor Roosevelt, to develop policy priorities and an action plan that will enable us to move beyond the false choice of economic growth or environmental security.",
+  "department_numbers": [
+    "RES",
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "res.14-003",
+  "course_image_thumbnail": {
+    "content": "7da23762-82a0-4e5c-a7be-4076e3c0452a",
+    "website": "the-roosevelt-project"
+  },
+  "learning_resource_types": [],
+  "site_uid": "f017e7d6-bf8e-4e35-8c7f-85a9bbf95747",
+  "site_short_id": "res.14-003-spring-2023"
+}
